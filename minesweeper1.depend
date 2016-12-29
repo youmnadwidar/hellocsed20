@@ -1,0 +1,213 @@
+# depslib dependency file v1.0
+1481924197 source:c:\users\hp\desktop\programing labs\minesweeper1\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	"myfun.h"
+
+1481119230 source:c:\users\hp\desktop\programing labs\minesweeper1\untitled1.c
+
+1481924197 source:c:\users\hp\desktop\programing labs\minesweeper1\myfun.c
+	<ctype.h>
+
+1481893561 c:\users\hp\desktop\programing labs\minesweeper1\myfun.h
+
+1482687331 source:c:\users\hp\desktop\project\minesweeper1\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<signal.h>
+	"After_W.h"
+	"W&L.h"
+	"Array_fun.h"
+	"Players_ranks.h"
+	<ctype.h>
+	"Mine_sweeper.h"
+	"cell_operations.h"
+	<pthread.h>
+
+1482530496 c:\users\hp\desktop\project\minesweeper1\myfun.h
+
+1482481590 source:c:\users\hp\desktop\project\minesweeper1\myfun.c
+	<ctype.h>
+	"functions2.h"
+	"functions3.h"
+	"functions4.h"
+
+1482530175 source:c:\users\hp\desktop\project\minesweeper1\functions2.c
+	"myfun.h"
+	"Array_fun.h"
+	<ctype.h>
+	<stdio.h>
+
+1482530175 c:\users\hp\desktop\project\minesweeper1\functions2.h
+
+1482432672 source:c:\users\hp\desktop\project\minesweeper1\functions3.c
+	"functions2.h"
+	"myfun.h"
+
+1482403768 c:\users\hp\desktop\project\minesweeper1\functions3.h
+
+1482530516 source:c:\users\hp\desktop\project\minesweeper1\functions4.c
+	<time.h>
+	<stdio.h>
+	"W&L.h"
+	<windows.h>
+
+1482530496 c:\users\hp\desktop\project\minesweeper1\functions4.h
+
+1482688317 source:c:\users\hp\desktop\project\minesweeper1\game_loop.c
+	<time.h>
+	<math.h>
+	<stdio.h>
+	"After_W.h"
+	"Players_ranks.h"
+	"W&L.h"
+	<pthread.h>
+	"thread.h"
+
+1482421698 c:\users\hp\desktop\project\minesweeper1\players_ranks.h
+
+1482679519 source:c:\users\hp\desktop\project\minesweeper1\players_ranks.c
+	<stdio.h>
+
+1482506546 source:c:\users\hp\desktop\project\minesweeper1\print_ranks.c
+	<stdio.h>
+
+1482482605 c:\users\hp\desktop\project\minesweeper1\mine_sweeper.h
+
+1482506413 source:c:\users\hp\desktop\project\minesweeper1\mine_sweeper.c
+
+1482683387 source:c:\users\hp\desktop\project\minesweeper1\array_fun.c
+	"W&L.h"
+	"After_W.h"
+
+1482403768 c:\users\hp\desktop\project\minesweeper1\array_fun.h
+
+1482672348 c:\users\hp\desktop\project\minesweeper1\w&l.h
+
+1482667811 source:c:\users\hp\desktop\project\minesweeper1\after_w.c
+	<time.h>
+	<stdio.h>
+	"W&L.h"
+	<windows.h>
+
+1482656384 c:\users\hp\desktop\project\minesweeper1\after_w.h
+
+1482683387 source:c:\users\hp\desktop\project\minesweeper1\w&l.c
+	"After_W.h"
+	"Array_fun.h"
+	<ctype.h>
+	<stdio.h>
+
+1482686646 c:\users\hp\desktop\project\minesweeper1\cell_operations.h
+
+1482687397 source:c:\users\hp\desktop\project\minesweeper1\cell_operations.c
+	<ctype.h>
+	"W&L.h"
+	"Array_fun.h"
+	"INCell_operations.h"
+	<pthread.h>
+	"thread.h"
+
+1482686207 source:c:\users\hp\desktop\project\minesweeper1\incell_operations.c
+
+1482656384 c:\users\hp\desktop\project\minesweeper1\incell_operations.h
+
+1482684850 c:\users\hp\desktop\project\minesweeper1\thread.h
+
+1482688076 source:c:\users\hp\desktop\project\minesweeper1\thread.c
+	<pthread.h>
+	<stdio.h>
+	<time.h>
+
+1482933436 source:d:\project\minesweeper1\after_w.c
+	<time.h>
+	<stdio.h>
+	"W&L.h"
+	<windows.h>
+
+1482768775 d:\project\minesweeper1\w&l.h
+
+1482993219 source:d:\project\minesweeper1\array_fun.c
+	"W&L.h"
+	"After_W.h"
+
+1482991161 d:\project\minesweeper1\after_w.h
+
+1482993208 source:d:\project\minesweeper1\cell_operations.c
+	<ctype.h>
+	"W&L.h"
+	"Array_fun.h"
+	"INCell_operations.h"
+	<pthread.h>
+	"thread.h"
+
+1482922097 d:\project\minesweeper1\array_fun.h
+
+1482991228 d:\project\minesweeper1\incell_operations.h
+
+1482765905 d:\project\minesweeper1\thread.h
+
+1482993973 source:d:\project\minesweeper1\game_loop.c
+	<time.h>
+	<math.h>
+	<stdio.h>
+	"After_W.h"
+	"Players_ranks.h"
+	"W&L.h"
+	<pthread.h>
+	"thread.h"
+
+1482990984 d:\project\minesweeper1\players_ranks.h
+
+1482994223 source:d:\project\minesweeper1\incell_operations.c
+	<time.h>
+	<stdio.h>
+	"W&L.h"
+
+1482994263 source:d:\project\minesweeper1\mine_sweeper.c
+	<windows.h>
+
+1482994757 source:d:\project\minesweeper1\players_ranks.c
+	<stdio.h>
+
+1482933873 source:d:\project\minesweeper1\print_ranks.c
+	<stdio.h>
+
+1482994298 source:d:\project\minesweeper1\thread.c
+	<pthread.h>
+	<stdio.h>
+	<time.h>
+
+1482994306 source:d:\project\minesweeper1\w&l.c
+	"After_W.h"
+	"Array_fun.h"
+	<ctype.h>
+	<stdio.h>
+
+1482993208 source:d:\project\minesweeper1\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<signal.h>
+	<time.h>
+	"W&L.h"
+	"Array_fun.h"
+	"Players_ranks.h"
+	<ctype.h>
+	"Mine_sweeper.h"
+	"cell_operations.h"
+	"game_loop.h"
+	"INCell_operations.h"
+	<pthread.h>
+
+1482991066 d:\project\minesweeper1\mine_sweeper.h
+
+1482941224 d:\project\minesweeper1\cell_operations.h
+
+1482320538 d:\project\minesweeper1\game_loop.h
+
